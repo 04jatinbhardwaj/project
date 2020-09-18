@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [18/Mar/2020:23:02:49 +0530] "GET /GharKaSamaan/addprod HTTP/1.1" 200 2686
+0:0:0:0:0:0:0:1 - - [18/Mar/2020:23:37:38 +0530] "POST /GharKaSamaan/showProducts HTTP/1.1" 200 137
+0:0:0:0:0:0:0:1 - - [18/Mar/2020:23:37:46 +0530] "GET /GharKaSamaan/allprod HTTP/1.1" 200 1903
+127.0.0.1 - - [18/Mar/2020:23:40:37 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [18/Mar/2020:23:40:41 +0530] "GET /GharKaSamaan/ HTTP/1.1" 200 2692
+0:0:0:0:0:0:0:1 - - [18/Mar/2020:23:40:46 +0530] "GET /GharKaSamaan/allprod HTTP/1.1" 500 5634
+0:0:0:0:0:0:0:1 - - [18/Mar/2020:23:41:22 +0530] "GET /GharKaSamaan/allprod HTTP/1.1" 500 5634

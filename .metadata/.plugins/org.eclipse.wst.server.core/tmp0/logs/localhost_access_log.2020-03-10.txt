@@ -1,0 +1,9 @@
+127.0.0.1 - - [10/Mar/2020:21:13:29 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [10/Mar/2020:21:13:33 +0530] "GET /GharKaSamaan/ HTTP/1.1" 200 2692
+0:0:0:0:0:0:0:1 - - [10/Mar/2020:21:13:58 +0530] "GET /GharKaSamaan/allcat HTTP/1.1" 200 1351
+0:0:0:0:0:0:0:1 - - [10/Mar/2020:21:14:00 +0530] "GET /GharKaSamaan/deletecat?id=Grocery HTTP/1.1" 500 4060
+0:0:0:0:0:0:0:1 - - [10/Mar/2020:22:38:47 +0530] "GET /GharKaSamaan/updatecat?id=1 HTTP/1.1" 200 1367
+127.0.0.1 - - [10/Mar/2020:22:41:22 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [10/Mar/2020:22:41:24 +0530] "GET /GharKaSamaan/ HTTP/1.1" 200 2692
+0:0:0:0:0:0:0:1 - - [10/Mar/2020:22:41:27 +0530] "GET /GharKaSamaan/allcat HTTP/1.1" 200 1351
+0:0:0:0:0:0:0:1 - - [10/Mar/2020:22:41:29 +0530] "GET /GharKaSamaan/deletecat?id=Grocery HTTP/1.1" 500 4060

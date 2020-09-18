@@ -1,0 +1,10 @@
+127.0.0.1 - - [06/Mar/2020:23:15:57 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [06/Mar/2020:23:15:59 +0530] "GET /GharKaSamaan/ HTTP/1.1" 200 2638
+0:0:0:0:0:0:0:1 - - [06/Mar/2020:23:16:02 +0530] "GET /GharKaSamaan/prodcat HTTP/1.1" 500 5859
+0:0:0:0:0:0:0:1 - - [06/Mar/2020:23:16:09 +0530] "GET /GharKaSamaan/addprod HTTP/1.1" 200 2130
+0:0:0:0:0:0:0:1 - - [06/Mar/2020:23:16:14 +0530] "GET /GharKaSamaan/allprod HTTP/1.1" 200 1655
+0:0:0:0:0:0:0:1 - - [06/Mar/2020:23:16:17 +0530] "GET /GharKaSamaan/ HTTP/1.1" 200 2638
+0:0:0:0:0:0:0:1 - - [06/Mar/2020:23:16:19 +0530] "GET /GharKaSamaan/aboutus HTTP/1.1" 200 1095
+0:0:0:0:0:0:0:1 - - [06/Mar/2020:23:16:22 +0530] "GET /GharKaSamaan/contactus HTTP/1.1" 200 2671
+0:0:0:0:0:0:0:1 - - [06/Mar/2020:23:16:31 +0530] "GET /GharKaSamaan/contactus HTTP/1.1" 200 2671
+0:0:0:0:0:0:0:1 - - [06/Mar/2020:23:16:32 +0530] "GET /GharKaSamaan/contactus HTTP/1.1" 200 2671

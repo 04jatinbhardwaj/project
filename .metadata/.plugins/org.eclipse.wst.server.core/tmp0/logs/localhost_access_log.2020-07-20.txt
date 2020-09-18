@@ -1,0 +1,4 @@
+127.0.0.1 - - [20/Jul/2020:17:04:52 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [20/Jul/2020:17:04:58 +0530] "GET /GharKaSamaan/WEB-INF/views/index.jsp HTTP/1.1" 404 992
+127.0.0.1 - - [20/Jul/2020:17:08:37 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [20/Jul/2020:17:08:38 +0530] "GET /GharKaSamaan/WEB-INF/classes/controllers/MyController.java HTTP/1.1" 404 992

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;GharKaSamaan/WebContent/WEB-INF/views/Category.jsp&apos; to &apos;AddCategory.jsp&apos;" description="Rename resource &apos;Category.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/WEB-INF/views/Category.jsp" name="AddCategory.jsp" stamp="1582827162774" updateReferences="true"/>
+</session>
